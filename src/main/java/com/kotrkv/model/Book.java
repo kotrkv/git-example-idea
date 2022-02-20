@@ -8,4 +8,5 @@ import lombok.Data;
 public class Book {
     private Long id;
     private String authorFio;
+    private Integer page;
 }
